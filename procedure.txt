@@ -1,0 +1,26 @@
+So here i am going to Explain the procedure to make your project working......
+
+Lets Begin!!....
+
+Step-1:-You need to have the following components ready to execute the project successfully.
+       -Arduino Uno
+       -Jumper wires
+       -Buzzer
+       -USB to arduino connection cord
+       -Water Sensor.
+
+Step-2:-To check if the water sensor is able to deliver the result we need.
+
+-Connect 5V on the arduino board to the + Terminal of the Water sensor.Connect the ground pin to - Terminal on the Water sensor and finally connect the A0 analog pin to S terminal on the water sensor.
+-Run the initial.ino code which is given in the repository and upload it to the arduino board.
+-Now dip the water sensor in water and check the reading change in the serial monitor.
+-The Readings Change.....
+
+Step-3:-Connecting the Buzzer
+
+-Connect the +ve of the buzzer (red wire) to any digital pin from 1-13.
+-Connect the -ve of the buzzer (black wire) to the ground.
+-Now run the AnalogInOutSerial.ino code which is given in the repository and upload it to the arduino board.
+-Dip the Sensor in water and now you will see the buzzer in action!
+
+Step-4:-Share the project with your friends!!
