@@ -9,4 +9,4 @@ This Setup contains:-Arduino Uno board
                     -A laptop or pc to power the arduino board.
 
 
-![]()
+![](https://github.com/rohankumarp/Water-Indicator-Arduino/blob/main/media/one.jpeg)
